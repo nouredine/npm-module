@@ -1,5 +1,5 @@
 module.exports = {
-    RandomChar: function (num){
+    RandomStringModule: function (num){
 	  var string = "abcdefghijklmnopqrstuvwxyz0123456789";
 	  var str = '';
 	  var i = 0;

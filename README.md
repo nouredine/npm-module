@@ -2,10 +2,10 @@
 A module that returns alphanumeric strings.
 
 ## HOW TO INSTALL
-# npm install random-string-module --save
+# npm i @nouredine/randomstringmodule --save
 
 ## HOW TO USE
-var random = require('random-string-module);
+var random = require('@nouredine/randomstringmodule');
 
 ```javascript
 ## METHOD
