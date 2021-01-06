@@ -1,6 +1,6 @@
 {
   "name": "@nouredine/randomstringmodule",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A module that returns alphanumeric strings",
   "main": "server.js",
   "scripts": {

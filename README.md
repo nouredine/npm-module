@@ -5,7 +5,7 @@ A module that returns alphanumeric strings.
 # npm i @nouredine/randomstringmodule --save
 
 ## HOW TO USE
-var random = require('@nouredine/randomstringmodule');
+var RandomStringModule = require('@nouredine/randomstringmodule');
 
 ```javascript
 ## METHOD
@@ -13,5 +13,5 @@ var random = require('@nouredine/randomstringmodule');
 # RandomChar
 This method takes in an integer value which specifies the length of the returned strings.
 
-console.log(random.RandomStringModule(10))
+console.log(RandomStringModule.RandomStringModule(10))
 // Returns b2pcd13ezq
